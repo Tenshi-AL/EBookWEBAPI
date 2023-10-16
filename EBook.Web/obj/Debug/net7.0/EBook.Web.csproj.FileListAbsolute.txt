@@ -1,0 +1,174 @@
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\EBook.Web.exe
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\EBook.Web.deps.json
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\EBook.Web.runtimeconfig.json
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\EBook.Web.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\EBook.Web.pdb
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\EBook.Web.csproj.AssemblyReference.cache
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\EBook.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\EBook.Web.AssemblyInfoInputs.cache
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\EBook.Web.AssemblyInfo.cs
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\EBook.Web.csproj.CoreCompileInputs.cache
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\EBook.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\EBook.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\staticwebassets\msbuild.EBook.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.EBook.Web.props
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EBook.Web.props
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EBook.Web.props
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\scopedcss\bundle\EBook.Web.styles.css
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\EBook.Web.csproj.CopyComplete
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\EBook.Web.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\refint\EBook.Web.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\EBook.Web.pdb
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\EBook.Web.genruntimeconfig.cache
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\obj\Debug\net7.0\ref\EBook.Web.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\EBook.Domain.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\EBook.Persistence.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\EBook.Persistence.pdb
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\EBook.Domain.pdb
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Humanizer.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\EBook.Infrastructure.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\EBook.Infrastructure.pdb
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\Ebook.Web\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\MediatR.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Web\bin\Debug\net7.0\EBook.Web.staticwebassets.runtime.json
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\EBook.Web.staticwebassets.runtime.json
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\EBook.Web.exe
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\EBook.Web.deps.json
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\EBook.Web.runtimeconfig.json
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\EBook.Web.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\EBook.Web.pdb
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Humanizer.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\MediatR.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\EBook.Domain.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\EBook.Infrastructure.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\EBook.Persistence.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\EBook.Persistence.pdb
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\EBook.Infrastructure.pdb
+C:\Users\potro\Desktop\EBook\Ebook.Web\bin\Debug\net7.0\EBook.Domain.pdb
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\EBook.Web.csproj.AssemblyReference.cache
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\EBook.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\EBook.Web.AssemblyInfoInputs.cache
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\EBook.Web.AssemblyInfo.cs
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\EBook.Web.csproj.CoreCompileInputs.cache
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\EBook.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\EBook.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\staticwebassets\msbuild.EBook.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.EBook.Web.props
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EBook.Web.props
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EBook.Web.props
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\scopedcss\bundle\EBook.Web.styles.css
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\EBook.Web.csproj.CopyComplete
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\EBook.Web.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\refint\EBook.Web.dll
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\EBook.Web.pdb
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\EBook.Web.genruntimeconfig.cache
+C:\Users\potro\Desktop\EBook\Ebook.Web\obj\Debug\net7.0\ref\EBook.Web.dll

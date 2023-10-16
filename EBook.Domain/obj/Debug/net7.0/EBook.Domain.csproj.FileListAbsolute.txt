@@ -1,0 +1,23 @@
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Domain\bin\Debug\net7.0\EBook.Domain.deps.json
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Domain\bin\Debug\net7.0\EBook.Domain.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Domain\bin\Debug\net7.0\EBook.Domain.pdb
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Domain\obj\Debug\net7.0\EBook.Domain.csproj.AssemblyReference.cache
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Domain\obj\Debug\net7.0\EBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Domain\obj\Debug\net7.0\EBook.Domain.AssemblyInfoInputs.cache
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Domain\obj\Debug\net7.0\EBook.Domain.AssemblyInfo.cs
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Domain\obj\Debug\net7.0\EBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Domain\obj\Debug\net7.0\EBook.Domain.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Domain\obj\Debug\net7.0\refint\EBook.Domain.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Domain\obj\Debug\net7.0\EBook.Domain.pdb
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Domain\obj\Debug\net7.0\ref\EBook.Domain.dll
+C:\Users\potro\Desktop\EBook\EBook.Domain\bin\Debug\net7.0\EBook.Domain.deps.json
+C:\Users\potro\Desktop\EBook\EBook.Domain\bin\Debug\net7.0\EBook.Domain.dll
+C:\Users\potro\Desktop\EBook\EBook.Domain\bin\Debug\net7.0\EBook.Domain.pdb
+C:\Users\potro\Desktop\EBook\EBook.Domain\obj\Debug\net7.0\EBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\potro\Desktop\EBook\EBook.Domain\obj\Debug\net7.0\EBook.Domain.AssemblyInfoInputs.cache
+C:\Users\potro\Desktop\EBook\EBook.Domain\obj\Debug\net7.0\EBook.Domain.AssemblyInfo.cs
+C:\Users\potro\Desktop\EBook\EBook.Domain\obj\Debug\net7.0\EBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\potro\Desktop\EBook\EBook.Domain\obj\Debug\net7.0\EBook.Domain.dll
+C:\Users\potro\Desktop\EBook\EBook.Domain\obj\Debug\net7.0\refint\EBook.Domain.dll
+C:\Users\potro\Desktop\EBook\EBook.Domain\obj\Debug\net7.0\EBook.Domain.pdb
+C:\Users\potro\Desktop\EBook\EBook.Domain\obj\Debug\net7.0\ref\EBook.Domain.dll

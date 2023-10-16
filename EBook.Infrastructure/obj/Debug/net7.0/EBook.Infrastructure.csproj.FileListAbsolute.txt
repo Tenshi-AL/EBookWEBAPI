@@ -1,0 +1,34 @@
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Infrastructure\bin\Debug\net7.0\EBook.Infrastructure.deps.json
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Infrastructure\bin\Debug\net7.0\EBook.Infrastructure.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Infrastructure\bin\Debug\net7.0\EBook.Infrastructure.pdb
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Infrastructure\bin\Debug\net7.0\EBook.Domain.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Infrastructure\bin\Debug\net7.0\EBook.Persistence.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Infrastructure\bin\Debug\net7.0\EBook.Persistence.pdb
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Infrastructure\bin\Debug\net7.0\EBook.Domain.pdb
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Infrastructure\obj\Debug\net7.0\EBook.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Infrastructure\obj\Debug\net7.0\EBook.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Infrastructure\obj\Debug\net7.0\EBook.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Infrastructure\obj\Debug\net7.0\EBook.Infrastructure.AssemblyInfo.cs
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Infrastructure\obj\Debug\net7.0\EBook.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Infrastructure\obj\Debug\net7.0\EBook.Infrastructure.csproj.CopyComplete
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Infrastructure\obj\Debug\net7.0\EBook.Infrastructure.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Infrastructure\obj\Debug\net7.0\refint\EBook.Infrastructure.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Infrastructure\obj\Debug\net7.0\EBook.Infrastructure.pdb
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Infrastructure\obj\Debug\net7.0\ref\EBook.Infrastructure.dll
+C:\Users\potro\Desktop\EBook\EBook.Infrastructure\bin\Debug\net7.0\EBook.Infrastructure.deps.json
+C:\Users\potro\Desktop\EBook\EBook.Infrastructure\bin\Debug\net7.0\EBook.Infrastructure.dll
+C:\Users\potro\Desktop\EBook\EBook.Infrastructure\bin\Debug\net7.0\EBook.Infrastructure.pdb
+C:\Users\potro\Desktop\EBook\EBook.Infrastructure\bin\Debug\net7.0\EBook.Domain.dll
+C:\Users\potro\Desktop\EBook\EBook.Infrastructure\bin\Debug\net7.0\EBook.Persistence.dll
+C:\Users\potro\Desktop\EBook\EBook.Infrastructure\bin\Debug\net7.0\EBook.Persistence.pdb
+C:\Users\potro\Desktop\EBook\EBook.Infrastructure\bin\Debug\net7.0\EBook.Domain.pdb
+C:\Users\potro\Desktop\EBook\EBook.Infrastructure\obj\Debug\net7.0\EBook.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\potro\Desktop\EBook\EBook.Infrastructure\obj\Debug\net7.0\EBook.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\potro\Desktop\EBook\EBook.Infrastructure\obj\Debug\net7.0\EBook.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\potro\Desktop\EBook\EBook.Infrastructure\obj\Debug\net7.0\EBook.Infrastructure.AssemblyInfo.cs
+C:\Users\potro\Desktop\EBook\EBook.Infrastructure\obj\Debug\net7.0\EBook.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\potro\Desktop\EBook\EBook.Infrastructure\obj\Debug\net7.0\EBook.Infrastructure.csproj.CopyComplete
+C:\Users\potro\Desktop\EBook\EBook.Infrastructure\obj\Debug\net7.0\EBook.Infrastructure.dll
+C:\Users\potro\Desktop\EBook\EBook.Infrastructure\obj\Debug\net7.0\refint\EBook.Infrastructure.dll
+C:\Users\potro\Desktop\EBook\EBook.Infrastructure\obj\Debug\net7.0\EBook.Infrastructure.pdb
+C:\Users\potro\Desktop\EBook\EBook.Infrastructure\obj\Debug\net7.0\ref\EBook.Infrastructure.dll

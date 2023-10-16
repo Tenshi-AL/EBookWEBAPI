@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "kCIlPfUnSCbN9GqeduexWeOl5Q3ASauUMDPMpAvl4gY=",
+  "Source": "EBook.Web",
+  "BasePath": "_content/EBook.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EBook.Web\\wwwroot",
+      "Source": "EBook.Web",
+      "ContentRoot": "C:\\Users\\potro\\Desktop\\EBook\\Ebook.Web\\wwwroot\\",
+      "BasePath": "_content/EBook.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\potro\\Desktop\\EBook\\Ebook.Web\\wwwroot\\Books\\ra8je.jpg",
+      "SourceId": "EBook.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\potro\\Desktop\\EBook\\Ebook.Web\\wwwroot\\",
+      "BasePath": "_content/EBook.Web",
+      "RelativePath": "Books/ra8je.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Books\\ra8je.jpg"
+    }
+  ]
+}

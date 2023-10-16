@@ -1,0 +1,34 @@
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Persistence\bin\Debug\net7.0\EBook.Persistence.deps.json
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Persistence\bin\Debug\net7.0\EBook.Persistence.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Persistence\bin\Debug\net7.0\EBook.Persistence.pdb
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Persistence\bin\Debug\net7.0\EBook.Domain.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Persistence\bin\Debug\net7.0\EBook.Domain.pdb
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Persistence\obj\Debug\net7.0\EBook.Persistence.csproj.AssemblyReference.cache
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Persistence\obj\Debug\net7.0\EBook.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Persistence\obj\Debug\net7.0\EBook.Persistence.AssemblyInfoInputs.cache
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Persistence\obj\Debug\net7.0\EBook.Persistence.AssemblyInfo.cs
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Persistence\obj\Debug\net7.0\EBook.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Persistence\obj\Debug\net7.0\EBook.Persistence.csproj.CopyComplete
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Persistence\obj\Debug\net7.0\EBook.Persistence.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Persistence\obj\Debug\net7.0\refint\EBook.Persistence.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Persistence\obj\Debug\net7.0\EBook.Persistence.pdb
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Persistence\obj\Debug\net7.0\ref\EBook.Persistence.dll
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Persistence\bin\Debug\net7.0\EBook.Persistence.runtimeconfig.json
+C:\Users\aleha\OneDrive\Рабочий стол\solutions\EBook\EBook.Persistence\obj\Debug\net7.0\EBook.Persistence.genruntimeconfig.cache
+C:\Users\potro\Desktop\EBook\EBook.Persistence\bin\Debug\net7.0\EBook.Persistence.deps.json
+C:\Users\potro\Desktop\EBook\EBook.Persistence\bin\Debug\net7.0\EBook.Persistence.runtimeconfig.json
+C:\Users\potro\Desktop\EBook\EBook.Persistence\bin\Debug\net7.0\EBook.Persistence.dll
+C:\Users\potro\Desktop\EBook\EBook.Persistence\bin\Debug\net7.0\EBook.Persistence.pdb
+C:\Users\potro\Desktop\EBook\EBook.Persistence\bin\Debug\net7.0\EBook.Domain.dll
+C:\Users\potro\Desktop\EBook\EBook.Persistence\bin\Debug\net7.0\EBook.Domain.pdb
+C:\Users\potro\Desktop\EBook\EBook.Persistence\obj\Debug\net7.0\EBook.Persistence.csproj.AssemblyReference.cache
+C:\Users\potro\Desktop\EBook\EBook.Persistence\obj\Debug\net7.0\EBook.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\potro\Desktop\EBook\EBook.Persistence\obj\Debug\net7.0\EBook.Persistence.AssemblyInfoInputs.cache
+C:\Users\potro\Desktop\EBook\EBook.Persistence\obj\Debug\net7.0\EBook.Persistence.AssemblyInfo.cs
+C:\Users\potro\Desktop\EBook\EBook.Persistence\obj\Debug\net7.0\EBook.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\potro\Desktop\EBook\EBook.Persistence\obj\Debug\net7.0\EBook.Persistence.csproj.CopyComplete
+C:\Users\potro\Desktop\EBook\EBook.Persistence\obj\Debug\net7.0\EBook.Persistence.dll
+C:\Users\potro\Desktop\EBook\EBook.Persistence\obj\Debug\net7.0\refint\EBook.Persistence.dll
+C:\Users\potro\Desktop\EBook\EBook.Persistence\obj\Debug\net7.0\EBook.Persistence.pdb
+C:\Users\potro\Desktop\EBook\EBook.Persistence\obj\Debug\net7.0\EBook.Persistence.genruntimeconfig.cache
+C:\Users\potro\Desktop\EBook\EBook.Persistence\obj\Debug\net7.0\ref\EBook.Persistence.dll
